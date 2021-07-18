@@ -1,4 +1,4 @@
-# project expert commentary boom in Japan
+# Project: expert commentary boom in Japan
 
 This is a project for Lede week6. I scraped three Japanese media's website to analyze "experrt commentary feature", which is booming in Japan.
 
