@@ -22,4 +22,4 @@ Formatted csv files are titled: "formatted_expertcommentary - nikkei.csv","forma
 ---
 ## Reproducibility
 The code running the analysis is written in Python 3. it also requires BeautifulSoup and pandas．
-BeautifulSoup for scraping, pandas for data loading and analysis. I also used Jupyter notebook.
+BeautifulSoup for scraping, pandas for data loading and analysis. All works done on Jupyter notebook.
